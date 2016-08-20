@@ -16,7 +16,7 @@ import (
 	path "github.com/ipfs/go-ipfs/path"
 	pin "github.com/ipfs/go-ipfs/pin"
 	routing "github.com/ipfs/go-ipfs/routing"
-	dhtpb "github.com/ipfs/go-ipfs/routing/dht/pb"
+	dhtpb "github.com/libp2p/go-libp2p/p2p/dht/pb"
 	record "github.com/ipfs/go-ipfs/routing/record"
 	ft "github.com/ipfs/go-ipfs/unixfs"
 	peer "gx/ipfs/QmRBqJF7hb8ZSpRcMwUt8hNhydWcxGEhtk81HKq6oUwKvs/go-libp2p-peer"

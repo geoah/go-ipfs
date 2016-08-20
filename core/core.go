@@ -37,7 +37,7 @@ import (
 	context "gx/ipfs/QmZy2y8t9zQH2a1b8q2ZSLKp17ATuJoCNxxyMFG5qFExpt/go-net/context"
 
 	routing "github.com/ipfs/go-ipfs/routing"
-	dht "github.com/ipfs/go-ipfs/routing/dht"
+	dht "github.com/libp2p/go-libp2p/p2p/dht"
 	nilrouting "github.com/ipfs/go-ipfs/routing/none"
 	offroute "github.com/ipfs/go-ipfs/routing/offline"
 

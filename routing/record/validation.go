@@ -7,7 +7,7 @@ import (
 
 	key "github.com/ipfs/go-ipfs/blocks/key"
 	path "github.com/ipfs/go-ipfs/path"
-	pb "github.com/ipfs/go-ipfs/routing/dht/pb"
+	pb "github.com/libp2p/go-libp2p/p2p/dht/pb"
 	ci "gx/ipfs/QmUWER4r4qMvaCnX5zREcfyiWN7cXN9g3a7fkRqNz8qWPP/go-libp2p-crypto"
 	mh "gx/ipfs/QmYf7ng2hG5XBtJA3tN34DQ2GUN5HNksEw1rLDkmr6vGku/go-multihash"
 	u "gx/ipfs/QmZNVWh8LLjAavuQ2JXuFmuYH3C11xo988vSgp7UQrTRj1/go-ipfs-util"

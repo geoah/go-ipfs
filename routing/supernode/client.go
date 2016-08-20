@@ -7,7 +7,7 @@ import (
 
 	key "github.com/ipfs/go-ipfs/blocks/key"
 	routing "github.com/ipfs/go-ipfs/routing"
-	pb "github.com/ipfs/go-ipfs/routing/dht/pb"
+	pb "github.com/libp2p/go-libp2p/p2p/dht/pb"
 	proxy "github.com/ipfs/go-ipfs/routing/supernode/proxy"
 	loggables "github.com/ipfs/go-ipfs/thirdparty/loggables"
 

@@ -1,7 +1,7 @@
 package mockrouting
 
 import (
-	dht "github.com/ipfs/go-ipfs/routing/dht"
+	dht "github.com/libp2p/go-libp2p/p2p/dht"
 	"github.com/ipfs/go-ipfs/thirdparty/testutil"
 	ds "gx/ipfs/QmTxLSvdhwg68WJimdS6icLPhZi28aTp6b7uihC2Yb47Xk/go-datastore"
 	sync "gx/ipfs/QmTxLSvdhwg68WJimdS6icLPhZi28aTp6b7uihC2Yb47Xk/go-datastore/sync"

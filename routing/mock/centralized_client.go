@@ -6,7 +6,7 @@ import (
 
 	key "github.com/ipfs/go-ipfs/blocks/key"
 	routing "github.com/ipfs/go-ipfs/routing"
-	dhtpb "github.com/ipfs/go-ipfs/routing/dht/pb"
+	dhtpb "github.com/libp2p/go-libp2p/p2p/dht/pb"
 	"github.com/ipfs/go-ipfs/thirdparty/testutil"
 	ds "gx/ipfs/QmTxLSvdhwg68WJimdS6icLPhZi28aTp6b7uihC2Yb47Xk/go-datastore"
 

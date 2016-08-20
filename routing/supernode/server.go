@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	key "github.com/ipfs/go-ipfs/blocks/key"
-	dhtpb "github.com/ipfs/go-ipfs/routing/dht/pb"
+	dhtpb "github.com/libp2p/go-libp2p/p2p/dht/pb"
 	record "github.com/ipfs/go-ipfs/routing/record"
 	proxy "github.com/ipfs/go-ipfs/routing/supernode/proxy"
 	datastore "gx/ipfs/QmTxLSvdhwg68WJimdS6icLPhZi28aTp6b7uihC2Yb47Xk/go-datastore"

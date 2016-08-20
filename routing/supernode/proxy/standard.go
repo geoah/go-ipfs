@@ -13,7 +13,7 @@ import (
 	inet "gx/ipfs/QmVCe3SNMjkcPgnpFhZs719dheq6xE7gJwjzV7aWcUM4Ms/go-libp2p/p2p/net"
 
 	key "github.com/ipfs/go-ipfs/blocks/key"
-	dhtpb "github.com/ipfs/go-ipfs/routing/dht/pb"
+	dhtpb "github.com/libp2p/go-libp2p/p2p/dht/pb"
 	kbucket "github.com/ipfs/go-ipfs/routing/kbucket"
 	loggables "github.com/ipfs/go-ipfs/thirdparty/loggables"
 )
